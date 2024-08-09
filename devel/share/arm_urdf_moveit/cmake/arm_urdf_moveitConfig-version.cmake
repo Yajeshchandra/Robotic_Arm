@@ -1,0 +1,1 @@
+/home/yrus/WS/devel/.private/arm_urdf_moveit/share/arm_urdf_moveit/cmake/arm_urdf_moveitConfig-version.cmake

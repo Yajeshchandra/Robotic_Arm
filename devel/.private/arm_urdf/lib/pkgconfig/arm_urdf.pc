@@ -1,0 +1,8 @@
+prefix=/home/yrus/WS/devel/.private/arm_urdf
+
+Name: arm_urdf
+Description: Description of arm_urdf
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs roscpp rospy std_msgs

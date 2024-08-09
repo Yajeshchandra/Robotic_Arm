@@ -1,0 +1,3 @@
+Symlinking /home/yrus/WS/devel/share/arm_urdf_moveit/cmake/arm_urdf_moveitConfig-version.cmake
+Symlinking /home/yrus/WS/devel/share/arm_urdf_moveit/cmake/arm_urdf_moveitConfig.cmake
+Symlinking /home/yrus/WS/devel/lib/pkgconfig/arm_urdf_moveit.pc

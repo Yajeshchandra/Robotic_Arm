@@ -1,0 +1,8 @@
+prefix=/home/yrus/WS/install
+
+Name: arm_urdf_moveit
+Description: Description of arm_urdf_moveit
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

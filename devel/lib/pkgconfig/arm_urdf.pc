@@ -1,0 +1,1 @@
+/home/yrus/WS/devel/.private/arm_urdf/lib/pkgconfig/arm_urdf.pc

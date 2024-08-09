@@ -1,0 +1,6 @@
+devel_space: /home/yrus/WS/devel
+install: false
+install_space: /home/yrus/WS/install
+profile: default
+source_space: /home/yrus/WS/src
+workspace: /home/yrus/WS
