@@ -30,7 +30,7 @@ catkin_install_python(PROGRAMS
   src/joystick_controller.py
   src/goal_based_control.py
   src/controller_based_control.py
-  src/controller_based_control2.py
+  src/teleop_xbox.py
   src/aa.py
   DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
 )

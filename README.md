@@ -75,7 +75,7 @@ roslaunch arm_moveit full_robot_arm_sim.launch
 To control the robotic arm using key bindings:
 
 ```bash
-rosrun arm_teleop teleop.py
+rosrun arm_teleop teleop_xbox.py
 ```
 
   ![image](https://github.com/user-attachments/assets/58a98093-fb87-4899-b2ab-bd99611cd9a8)
