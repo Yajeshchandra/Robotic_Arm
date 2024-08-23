@@ -1,5 +1,7 @@
 # Robotic Arm Control Repository
 
+NOTE : teleop_xbox_joint.py works and Ik_test.py doesnot ;\\\\\\
+
 ## Overview
 
 This repository contains the essential packages for simulating and controlling a robotic arm for **Team Deimos Mars Rover 2024** . The setup includes:
