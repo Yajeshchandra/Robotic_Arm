@@ -1,6 +1,11 @@
 # Robotic Arm Control Repository
 
-NOTE : teleop_xbox_joint.py works and Ik_test.py doesnot ;\\\\\\
+NOTE :
+
+- teleop_xbox_joints.py : You can control multiple joints at once using controller
+- ik_test.py : IK solver bhi nhi chal rha urdf mein kharabi h kya?
+- boudary.py : cannout even generate boundary points where arm can reach
+- xbox.py : Good code for controller
 
 ## Overview
 
