@@ -35,6 +35,7 @@ catkin_install_python(PROGRAMS
   src/teleop_xbox_joints.py
   src/aa.py
   src/ik_test.py
+  src/test_planning_n_execution.py
 
   DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
 )
